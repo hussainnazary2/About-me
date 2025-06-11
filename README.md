@@ -70,7 +70,7 @@ I believe in:
 - Preparing for **remote work opportunities** in GenAI
 
 ## 🌍 Let’s Connect
-https://www.linkedin.com/in/hussain-nazary-188b4385/
+[LinkedIn](https://www.linkedin.com/in/hussain-nazary-188b4385)
 
 I’m open to freelance work, remote AI jobs, and collaboration—especially in projects focused on **digital empowerment**, **AI accessibility**, and **LLM-powered tools**.
 
