@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Hussain Nazary
+# 👋 Hi, I'm Hussain Nazary
 
 🎯 **AI Tools Developer | LangChain & LLM Specialist**  
 Championing accessible, privacy-first, multilingual AI solutions.
